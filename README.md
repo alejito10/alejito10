@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<h1>hola</h1>
 <div align='center'>
 
-[<img style="margin-right: 40px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saramartz) [<img style="margin-right: 40px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sara-martínez-vega/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sara-martinez)
+[<img style="margin-right: 40px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alejito10) [<img style="margin-right: 40px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alejandro-gonz%C3%A1lez-prieto/)
 
 </div>
 
