@@ -2,7 +2,7 @@
 
 <h1>hola</h1>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?alejito10=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alejito10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alejito10/alejito10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
