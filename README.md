@@ -17,6 +17,7 @@ I'm a creative front end developer with a fashion designer background who is pas
 <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="NextJS" height="40px" title="NextJS" />
 <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="node-dot-js" height="40px" title="NodeJS" />
 <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="40px" title="JavaScript" />
+<img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" height="40px" title="typescript" />
 <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="40px" title="HTML 5" />
 <img src="https://simpleicons.org/icons/css3.svg" alt="css3" height="40px" title="CSS 3" />
 <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="40px" title="Sass" />
