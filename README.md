@@ -24,7 +24,7 @@ I'm a creative front end developer with a fashion designer background who is pas
 <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visualstudiocode" height="40px" title="VS Code" />
 <img src="https://simpleicons.org/icons/heroku.svg" alt="heroku" height="40px" title="Heroku" />
 <img src="https://simpleicons.org/icons/git.svg" alt="git" height="40px" title="Git" />
-<img src="https://simpleicons.org/icons/jasmine.svg" alt="jasmine" height="40px" title="Jasmine" />
+<img src="https://simpleicons.org/icons/svelte.svg" alt="svelte" height="40px" title="svelte" />
 <img src="https://simpleicons.org/icons/postman.svg" alt="postman" height="40px" title="Postman" />
 </div>
 
