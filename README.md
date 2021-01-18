@@ -30,7 +30,12 @@ I'm a creative front end developer with a fashion designer background who is pas
 
 ##
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alejito10&show_icons=true&theme=radical)
+<div align='center' style="margin: 40px 0px">
+<a href="https://github.com/alejito10/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejito10&layout=compact&theme=dark" />
+</a>
+</div>
 
 <!--
 **alejito10/alejito10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
