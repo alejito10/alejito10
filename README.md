@@ -14,8 +14,6 @@ I'm a creative front end developer with a fashion designer background who is pas
 <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="40px" title="MongoDB" />
 <img src="https://simpleicons.org/icons/express.svg" alt="expressJS" height="40px" title="ExpressJS" />
 <img src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" title="ReactJS" />
-<img src="https://simpleicons.org/icons/next-dot-js.svg" alt="NextJS" height="40px" title="NextJS" />
-<img src="https://simpleicons.org/icons/node-dot-js.svg" alt="node-dot-js" height="40px" title="NodeJS" />
 <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="40px" title="JavaScript" />
 <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" height="40px" title="typescript" />
 <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="40px" title="HTML 5" />
